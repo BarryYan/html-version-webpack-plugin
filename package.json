@@ -1,0 +1,11 @@
+{
+  "name": "html-version-webpack-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "html-webpack-plugin": "^3.2.0"
+  },
+  "repository": "git@github.com:BarryYan/html-version-webpack-plugin.git",
+  "author": "BarryYan <barry.yansh@gmail.com>",
+  "license": "MIT"
+}
